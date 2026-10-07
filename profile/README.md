@@ -1,4 +1,4 @@
-# CloK — Closure of Knowledge
+# $\overline{\mathbb{K}}$ — Closure of Knowledge
 
 ## Study Verifiable Knowledge at Scale
 
