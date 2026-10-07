@@ -18,9 +18,3 @@ We want practical problems to inform theoretical research, and methods and insig
 We learn through shared reading, discussion of practical problems, formalizing arguments, and building small tools. Whether you bring a theoretical question, a technical method, or an unresolved problem from production, you are welcome to study it with us.
 
 [Explore our research](https://www.clok.tech/#research) · [Our mission](https://www.clok.tech/about) · [Humanity, History & Knowledge](https://www.clok.tech/vision)
-
-### Public work
-
-- [OpenGA](https://github.com/CloK-Lab/OpenGA) — geometric analysis and geometric measure theory in Lean 4, built on Mathlib.
-- [mathlib-network](https://github.com/CloK-Lab/mathlib-network) — research on the network structure of Mathlib.
-- [DeSci4Math](https://github.com/CloK-Lab/DeSci4Math) — living documentation for decentralized science markets, ecosystem roles, and mechanisms.
