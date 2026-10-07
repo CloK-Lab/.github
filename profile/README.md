@@ -1,4 +1,4 @@
-# $\overline{\mathbb{K}}$ — Closure of Knowledge
+# $\overline{\text{𝕂}}$ — Closure of Knowledge
 
 ## Study Verifiable Knowledge at Scale
 
