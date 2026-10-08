@@ -1,6 +1,4 @@
-# $\overline{\text{𝕂}}$ — Closure of Knowledge
-
-## Study Verifiable Knowledge at Scale
+# $\overline{\text{𝕂}}$ — Study Verifiable Knowledge at Scale
 
 CloK is a learning & research community connecting theoretical researchers and industry practitioners. We study **AI safety, formal verification, and the games and incentives behind collaboration**.
 
